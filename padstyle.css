@@ -1,0 +1,26 @@
+.box{
+    height: 500px;
+    width: 500px;
+background-color: aqua;
+margin: 50px;
+padding: 50px;
+}
+
+h1{
+    color:black;
+    background-color: yellowgreen;
+    padding: 25px;
+    border: 5px solid red;
+    height: auto;
+    width: auto;
+    margin: 50px;
+}
+
+p{
+    color:green;
+    background-color:orange;
+    padding: 25px;
+    border: 10px solid black;
+    margin: 50px;
+
+}
